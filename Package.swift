@@ -19,6 +19,6 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "QuantumIOS",
-            path: "artifacts/ios-arm64/QuantumIOS.xcframework"),
+            path: "artifacts/QuantumIOS.xcframework"),
     ]
 )
