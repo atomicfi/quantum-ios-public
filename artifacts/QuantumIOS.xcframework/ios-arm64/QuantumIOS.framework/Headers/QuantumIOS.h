@@ -174,12 +174,6 @@ __attribute__((swift_name("QuantumInterface")))
  * @note This method converts instances of CancellationException to errors.
  * Other uncaught Kotlin exceptions are fatal.
 */
-- (void)clickSelector:(NSString *)selector completionHandler:(void (^)(NSError * _Nullable))completionHandler __attribute__((swift_name("click(selector:completionHandler:)")));
-
-/**
- * @note This method converts instances of CancellationException to errors.
- * Other uncaught Kotlin exceptions are fatal.
-*/
 - (void)gotoUrl:(NSString *)url headers:(NSDictionary<NSString *, NSString *> *)headers timeout:(int64_t)timeout completionHandler:(void (^)(QIOSBoolean * _Nullable, NSError * _Nullable))completionHandler __attribute__((swift_name("goto(url:headers:timeout:completionHandler:)")));
 @end
 
@@ -187,12 +181,6 @@ __attribute__((swift_name("QuantumCommon")))
 @interface QIOSQuantumCommon<T> : QIOSBase <QIOSQuantumInterface>
 - (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
 + (instancetype)new __attribute__((availability(swift, unavailable, message="use object initializers instead")));
-
-/**
- * @note This method converts instances of CancellationException to errors.
- * Other uncaught Kotlin exceptions are fatal.
-*/
-- (void)clickSelector:(NSString *)selector completionHandler:(void (^)(NSError * _Nullable))completionHandler __attribute__((swift_name("click(selector:completionHandler:)")));
 
 /**
  * @note This method converts instances of CancellationException to errors.
