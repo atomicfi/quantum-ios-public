@@ -18,7 +18,7 @@
 		</data>
 		<key>ios-arm64/QuantumIOS.framework/QuantumIOS</key>
 		<data>
-		OP6fCKNwb225NDc3ARy8L6Kh8NY=
+		sWugZOj8vbHMiew0DyONdrthErs=
 		</data>
 		<key>ios-arm64_x86_64-simulator/QuantumIOS.framework/Headers/QuantumIOS.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/QuantumIOS.framework/QuantumIOS</key>
 		<data>
-		7BhnxZzSB0hWge2j2XqHwnbwaqY=
+		lxUvFgSUkATkjpRF16Vp/KGb2sU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -76,11 +76,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OP6fCKNwb225NDc3ARy8L6Kh8NY=
+			sWugZOj8vbHMiew0DyONdrthErs=
 			</data>
 			<key>hash2</key>
 			<data>
-			/OJZ8ZcwPSGDvviuWxXsj9tJ5PYVo/uR8qsNnargZ0Y=
+			ePsnGrQFdpjMuI735KcHjF4tU05SYlbw6O3WQ46ey6g=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/QuantumIOS.framework/Headers/QuantumIOS.h</key>
@@ -120,11 +120,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7BhnxZzSB0hWge2j2XqHwnbwaqY=
+			lxUvFgSUkATkjpRF16Vp/KGb2sU=
 			</data>
 			<key>hash2</key>
 			<data>
-			R0K8wgjsfA0IFASgwcDHopJcdDsldmOP8mnS7MEnC9s=
+			PLFpjin7McfnOGP0qHuZ/zjPav3IydTzr4CdftIylqc=
 			</data>
 		</dict>
 	</dict>
