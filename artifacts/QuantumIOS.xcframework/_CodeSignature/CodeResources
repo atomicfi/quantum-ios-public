@@ -18,19 +18,7 @@
 		</data>
 		<key>ios-arm64/QuantumIOS.framework/QuantumIOS</key>
 		<data>
-		V82YNu4e34MCBIGIVwYcDmZv1IY=
-		</data>
-		<key>ios-arm64/dSYMs/QuantumIOS.framework.dSYM/Contents/Info.plist</key>
-		<data>
-		ckua7QHk7S06K2PKRE55DQwLUgw=
-		</data>
-		<key>ios-arm64/dSYMs/QuantumIOS.framework.dSYM/Contents/Resources/DWARF/QuantumIOS</key>
-		<data>
-		UlCRr8ZS8s2TVw0mzGhza3SAE/4=
-		</data>
-		<key>ios-arm64/dSYMs/QuantumIOS.framework.dSYM/Contents/Resources/Relocations/aarch64/QuantumIOS.yml</key>
-		<data>
-		amtJMQ8oQHNQceS+nULQQ5M70Ag=
+		OP6fCKNwb225NDc3ARy8L6Kh8NY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/QuantumIOS.framework/Headers/QuantumIOS.h</key>
 		<data>
@@ -46,15 +34,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/QuantumIOS.framework/QuantumIOS</key>
 		<data>
-		JRejRDij0ZjmRtBWeaa0a3W2Sss=
-		</data>
-		<key>ios-arm64_x86_64-simulator/dSYMs/QuantumIOS.framework.dSYM/Contents/Info.plist</key>
-		<data>
-		ckua7QHk7S06K2PKRE55DQwLUgw=
-		</data>
-		<key>ios-arm64_x86_64-simulator/dSYMs/QuantumIOS.framework.dSYM/Contents/Resources/DWARF/QuantumIOS</key>
-		<data>
-		NMydGe9pORT+eVoxnapJolt679c=
+		7BhnxZzSB0hWge2j2XqHwnbwaqY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -96,44 +76,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V82YNu4e34MCBIGIVwYcDmZv1IY=
+			OP6fCKNwb225NDc3ARy8L6Kh8NY=
 			</data>
 			<key>hash2</key>
 			<data>
-			WGfj/k4lX07He/4FmUBSqp9KSicLFMYkWNwPUr3aQ5c=
-			</data>
-		</dict>
-		<key>ios-arm64/dSYMs/QuantumIOS.framework.dSYM/Contents/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ckua7QHk7S06K2PKRE55DQwLUgw=
-			</data>
-			<key>hash2</key>
-			<data>
-			gAVgHZp99CV+mpx7yWJiTm+v/M7i3dbpy1PkJOEP5VQ=
-			</data>
-		</dict>
-		<key>ios-arm64/dSYMs/QuantumIOS.framework.dSYM/Contents/Resources/DWARF/QuantumIOS</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UlCRr8ZS8s2TVw0mzGhza3SAE/4=
-			</data>
-			<key>hash2</key>
-			<data>
-			dHHORZn1J+PzULlZF1mRVK/lYuw4k9jMKEoP4ILxVkg=
-			</data>
-		</dict>
-		<key>ios-arm64/dSYMs/QuantumIOS.framework.dSYM/Contents/Resources/Relocations/aarch64/QuantumIOS.yml</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			amtJMQ8oQHNQceS+nULQQ5M70Ag=
-			</data>
-			<key>hash2</key>
-			<data>
-			lmm2PEVy131RVqNhtIfEHM6z4zD70Dj+jVzK8DRqALA=
+			/OJZ8ZcwPSGDvviuWxXsj9tJ5PYVo/uR8qsNnargZ0Y=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/QuantumIOS.framework/Headers/QuantumIOS.h</key>
@@ -173,33 +120,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JRejRDij0ZjmRtBWeaa0a3W2Sss=
+			7BhnxZzSB0hWge2j2XqHwnbwaqY=
 			</data>
 			<key>hash2</key>
 			<data>
-			mk/vGSV1D7gAPqfDs0G06NwbwUcvHxAeD9u48egnBEY=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/dSYMs/QuantumIOS.framework.dSYM/Contents/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ckua7QHk7S06K2PKRE55DQwLUgw=
-			</data>
-			<key>hash2</key>
-			<data>
-			gAVgHZp99CV+mpx7yWJiTm+v/M7i3dbpy1PkJOEP5VQ=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/dSYMs/QuantumIOS.framework.dSYM/Contents/Resources/DWARF/QuantumIOS</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			NMydGe9pORT+eVoxnapJolt679c=
-			</data>
-			<key>hash2</key>
-			<data>
-			dkTnCP8qtAp4NUOFgNK/quD29MM9cW9MARFS6xnMyUI=
+			R0K8wgjsfA0IFASgwcDHopJcdDsldmOP8mnS7MEnC9s=
 			</data>
 		</dict>
 	</dict>
